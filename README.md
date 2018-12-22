@@ -5,7 +5,7 @@ Use 5 D6 dice, loaded or not.
 After each roll of all dice:
 - Put the dice in line without looking at them
 - Starting from the right, remove any dice which have the same value as those on their left
-- Throw the removed dice again
+- Roll the removed dice again
 - Repeat until all dice have different values
 - Enter the result and press return
 
